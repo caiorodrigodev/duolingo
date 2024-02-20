@@ -6,7 +6,7 @@
 // @author       Seu Nome
 // @match        https://www.duolingo.com/practice*
 // @grant        none
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=duolingo.com
+// @icon         https://d35aaqx5ub95lt.cloudfront.net/favicon.ico
 // ==/UserScript==
 
 (function() {
